@@ -16,10 +16,11 @@ Beside languages, i'm trying to learn AI to include them in my future games and 
 <strong>AI is part of new technologies.</strong><br>
 
 Languages I already know :
-  - C++
+  - C++ basics
   - Python basics
   - HTML/CSS
   - Javascript
+  - PHP
   - SQL
   - Unreal Engine 4 Blueprint language
  
