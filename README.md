@@ -1,9 +1,7 @@
-<h1>Wow, there's markdown here ...</h1>
+<h1>Hey !</h1>
 
-<strong>Ahem ...</strong>
-
-Hello ! I'm Skyle. Or SkyleDc. Or anything you'd call me.<br>
-I'm a french student in computer science and also a developer.
+I'm Skyle. Or SkyleDc. Or anything you'd call me.<br>
+I'm a (beginner) developer.
 
 I love High-Tech and new technologies.
 
