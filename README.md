@@ -12,11 +12,12 @@ Beside languages, i'm trying to learn AI to include them in my future games and 
 Languages I already know :
   - C/C++ basics
   - Python
-  - HTML/CSS
+  - HTML
+  - CSS basics, I do not like CSS, I'm not creative
   - Javascript
   - PHP
   - SQL
   - Unreal Engine 4 Blueprint language
   - Lua basics
  
-You can find me on discord : Skyle#3260
+You can find me on discord : Skyle#3343
